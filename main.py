@@ -80,7 +80,7 @@ def menu():
         print("1- Ver Blockchain (Data)")
         print("2- Ver Blockchain (Info completa)")
         print("3- Adicionar Block")
-        print("4- Preço das Cryptos (Bitcoin, Ethereum, Solana, Near, Cardano, BNB, Cronos)")
+        print("4- Preço das Cryptos (Bitcoin, Ethereum, Solana, Near, BNB)")
         print("5- Verificar Validade da Blockchain")
         print("6- Sair")
         choice = input("Escolha uma opção: ")
